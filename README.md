@@ -28,15 +28,15 @@ I also want to understand how a computer works behind the curtains and maybe do 
 ---
 
 ## 🔖 Table of Contents
-#### 1. [The Idea](#the-idea)
-#### 2. [How does a computer work behind the curtains?](#how-does-a-computer-work-behind-the-curtains)
-#### 3. [Steps to run the machine with your program](#steps-to-run-the-machine-with-your-program)
-#### 4. [Code Examples](#code-examples)
-#### 5. [Contributing Guidelines](https://github.com/Open-Machine/Organization-README/blob/master/CONTRIBUTION.md)
+#### 1. [💡 The Idea](#the-idea)
+#### 2. [💻 How does a computer work behind the curtains?](#how-does-a-computer-work-behind-the-curtains)
+#### 3. [▶️ Steps to run the machine with your program](#steps-to-run-the-machine-with-your-program)
+#### 4. [👨🏻‍💻 Code Examples](#code-examples)
+#### 5. [📄 Contributing Guidelines](#contributing-guidelines)
 
 ---
 
-## The Idea
+# 💡 The Idea
 
 The idea came from an [article](https://medium.com/@luca.assumpcao.dillenburg/programming-tips-from-a-not-yet-experienced-programmer-754623ce28ae) I wrote about some tips for developers:
 
@@ -52,7 +52,7 @@ Anyway, with that out of the way, this is when the everything started: a small d
 
 ---
 
-## How does a computer work behind the curtains?
+# 💻 How does a computer work behind the curtains?
 Developers usually have a good understanding of how a computer works. However, for me at least understanding a computer so deeply that you would be able to actually build one yourself seemed like an impossible task. So, in this section I want to break to you the most important pieces of the computer puzzle that you need to know in order to build your own computer from scratch using only circuits.
 
 ### Circuits
@@ -70,7 +70,7 @@ For high-level languages the process of translating the code to the machine code
 
 ---
 
-## Steps to run the machine with your program
+# ▶️ Steps to run the machine with your program
 
 
 ### I) Code to Executer
@@ -114,7 +114,12 @@ As we discussed earlier, in order to to run your program, you have to write the 
 
 ---
 
-## Code Examples
+# 👨🏻‍💻 Code Examples
 You can find examples of code in the ```Examples``` folder.
 #### Examples List
 - [Basic-IO](Examples/basic-io)
+
+---
+
+# 📄 Contributing Guidelines
+Check out the contributing guidelines [here](https://github.com/Open-Machine/Organization-README/blob/master/CONTRIBUTION.md).
