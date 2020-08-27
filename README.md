@@ -1,5 +1,5 @@
 # Open-Machine
-The goal is to to design and build a computer from scratch. I will only use logical ports to be the circuit and GoLang to build the compiler and assembler for your computer.
+The goal is to to design and build a computer from scratch. I will only use logical gates to build the circuit and GoLang to build the compiler and assembler for your computer.
 
 I also want to understand how a computer works behind the curtains and maybe do some things my way.
 
