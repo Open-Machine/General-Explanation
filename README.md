@@ -28,10 +28,11 @@ I also want to understand how a computer works behind the curtains and maybe do 
 ---
 
 ## 🔖 Table of Contents
-- [The Idea](#the-idea)
-- [How does a computer work behind the curtains?](#how-does-a-computer-work-behind-the-curtains)
-- [Steps to run the machine with your program](#steps-to-run-the-machine-with-your-program)
-- [Code Examples](#code-examples)
+#### 1. [The Idea](#the-idea)
+#### 2. [How does a computer work behind the curtains?](#how-does-a-computer-work-behind-the-curtains)
+#### 3. [Steps to run the machine with your program](#steps-to-run-the-machine-with-your-program)
+#### 4. [Code Examples](#code-examples)
+#### 5. [Contributing Guidelines](https://github.com/Open-Machine/Organization-README/blob/master/CONTRIBUTION.md)
 
 ---
 
