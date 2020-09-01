@@ -3,9 +3,12 @@
 
 <img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/master/Media/logo-horizontal.png" alt="open-machine"/>
 
-<i>The goal is to to design and build a computer from scratch. I will only use logical gates to build the circuit and GoLang to build the compiler and assembler for your computer.</i>
 <br/>
-<i>I also want to understand how a computer works behind the curtains and maybe do some things my way.</i>
+The goal is to to design and build a computer from scratch.
+<br/>
+I will only use logical gates to build the circuit and GoLang to build the compiler and assembler for your computer.
+<br/>
+I also want to understand how a computer works behind the curtains and maybe do some things my way.
 
 </div>
 
