@@ -1,7 +1,7 @@
 <h1 align="center">Open Machine</h1>
 <div align="center">
 
-<img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/master/Media/logo-horizontal.png" alt="open-machine"/>
+<a href="https://github.com/Open-Machine/"><img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/master/Media/logo-horizontal.png" alt="open-machine"/><a/>
 
 <br/>
 <br/>
