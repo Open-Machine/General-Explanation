@@ -1,4 +1,4 @@
-<h1 align="center">Open Machine</h1>
+<h1 align="center">Open Machine - The open-source computer</h1>
 <div align="center">
 
 <a href="https://github.com/Open-Machine/"><img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/master/Media/logo-horizontal.png" alt="open-machine"/><a/>
@@ -10,17 +10,36 @@
 <br/><br/>
 <i>I also want to understand how a computer works behind the curtains and maybe do some things my way.<i/>
 
+
+<h2>Objective</h2>
+<i>Understand how a computer works behind the curtains and do some things my way along the way.</i>
+
 </div>
 
-## [WIP] Todo
+---
+
+# 🔖 Table of Contents
+### 1. [✔ Todo](#-todo)
+### 2. [💡 The Idea](#the-idea)
+### 3. [💻 How does a computer work behind the curtains?](#how-does-a-computer-work-behind-the-curtains)
+### 4. [▶️ Steps to run the machine with your program](#steps-to-run-the-machine-with-your-program)
+### 5. [👨🏻‍💻 Code Examples](#code-examples)
+### 6. [📄 Contributing Guidelines](#contributing-guidelines)
+
+---
+
+# ✔ Todo
 **Circuit**
-- [ ] Signed integer
 - [ ] Float
-  - [ ] Summation and Subtraction
-  - [ ] Division circuit and command
-- [ ] Clock
-- [ ] Own RAM
-- [ ] Own Register
+- [ ] Division circuit and instruction
+- [ ] Custom clock
+- [ ] Custom RAM
+- [ ] Custom register
+
+**Assembler**
+- [ ] Variables
+- [ ] Import
+- [ ] Procedures
 
 **High-Level Language**
 - [ ] High-Level Language Compiler
@@ -28,20 +47,10 @@
 **Future**
 - [ ] Built-in data structures in the High-Level Language Compiler
 - [ ] Interpreted Language
-- [ ] Compiler and Assembler inside my machine
-- [ ] Print to Screen
-- [ ] Read from Keyboard
+- [ ] Compiler and Assembler inside open-machine
+- [ ] I/O: Screen and Keyboard
 - [ ] Basic Operating System
 - [ ] Disk
-
----
-
-## 🔖 Table of Contents
-#### 1. [💡 The Idea](#the-idea)
-#### 2. [💻 How does a computer work behind the curtains?](#how-does-a-computer-work-behind-the-curtains)
-#### 3. [▶️ Steps to run the machine with your program](#steps-to-run-the-machine-with-your-program)
-#### 4. [👨🏻‍💻 Code Examples](#code-examples)
-#### 5. [📄 Contributing Guidelines](#contributing-guidelines)
 
 ---
 
