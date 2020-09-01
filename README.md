@@ -4,7 +4,6 @@
 <a href="https://github.com/Open-Machine/"><img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/master/Media/logo-horizontal.png" alt="open-machine"/><a/>
 
 <br/>
-<br/>
 <i>The goal is to to design and build a computer from scratch.<i/>
 <br/><br/>
 <i>I will only use logical gates to build the circuit and GoLang to build the compiler and assembler for your computer.<i/>
