@@ -1,18 +1,22 @@
 <h1 align="center">Open Machine - The open-source computer</h1>
 <div align="center">
 
-<a href="https://github.com/Open-Machine/"><img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/master/Media/logo-horizontal.png" alt="open-machine"/><a/>
+<a href="https://github.com/Open-Machine/README/stargazers"><img src="https://img.shields.io/github/stars/Open-Machine/README" alt="Stars Badge"/></a>
+<a href="https://github.com/Open-Machine/README/commits/"><img src="https://img.shields.io/github/commit-activity/m/Open-Machine/README" alt="commits"/></a>
+<a href="https://github.com/Open-Machine/README/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Open-Machine/README?color=2b9347" alt="License Badge"/></a>
+
+<a href="https://github.com/Open-Machine/"><img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/master/Media/logo-horizontal.png" alt="open-machine"/></a>
 
 <br/>
-<i>The goal is to to design and build a computer from scratch.<i/>
+<i>The goal is to to design and build a computer from scratch.</i>
 <br/><br/>
-<i>I will only use logical gates to build the circuit and GoLang to build the compiler and assembler for your computer.<i/>
+<i>I will only use logical gates to build the circuit and GoLang to build the compiler and assembler for your computer.</i>
 <br/><br/>
-<i>I also want to understand how a computer works behind the curtains and maybe do some things my way.<i/>
+<i>I also want to understand how a computer works behind the curtains and maybe do some things my way.</i>
 
 
 <h2>Objective</h2>
-<i>Understand how a computer works behind the curtains and do some things my way along the way.</i>
+<i>To understand how a computer works behind the curtains and do some things my way along the way.</i>
 
 </div>
 
