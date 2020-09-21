@@ -4,7 +4,7 @@
 <h3>The goal is to to design and build a computer from scratch.</h3>
 
 <a href="https://github.com/Open-Machine/README/stargazers"><img src="https://img.shields.io/github/stars/Open-Machine/README" alt="Stars Badge"/></a>
-<a href="https://github.com/Open-Machine/README/commits/"><img src="https://img.shields.io/github/commit-activity/m/Open-Machine/README" alt="commits"/></a>
+<a href="https://github.com/Open-Machine/README/commits/"><img src="https://img.shields.io/github/commit-activity/m/Open-Machine/README#stable" alt="commits"/></a>
 <a href="https://github.com/Open-Machine/README/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Open-Machine/README?color=2b9347" alt="License Badge"/></a>
 
 <a href="https://github.com/Open-Machine/"><img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/stable/Media/logo-horizontal.png" alt="open-machine"/></a>
