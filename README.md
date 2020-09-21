@@ -1,19 +1,15 @@
 <h1 align="center">Open Machine - The open-source computer</h1>
 <div align="center">
 
+<h3>The goal is to to design and build a computer from scratch.</h3>
+
 <a href="https://github.com/Open-Machine/README/stargazers"><img src="https://img.shields.io/github/stars/Open-Machine/README" alt="Stars Badge"/></a>
 <a href="https://github.com/Open-Machine/README/commits/"><img src="https://img.shields.io/github/commit-activity/m/Open-Machine/README" alt="commits"/></a>
 <a href="https://github.com/Open-Machine/README/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Open-Machine/README?color=2b9347" alt="License Badge"/></a>
 
-<a href="https://github.com/Open-Machine/"><img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/master/Media/logo-horizontal.png" alt="open-machine"/></a>
+<a href="https://github.com/Open-Machine/"><img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/stable/Media/logo-horizontal.png" alt="open-machine"/></a>
 
 <br/>
-<i>The goal is to to design and build a computer from scratch.</i>
-<br/><br/>
-<i>I will only use logical gates to build the circuit and GoLang to build the compiler and assembler for your computer.</i>
-<br/><br/>
-<i>I also want to understand how a computer works behind the curtains and maybe do some things my way.</i>
-
 
 <h2>Objective</h2>
 <i>To understand how a computer works behind the curtains and do some things my way along the way.</i>
@@ -23,38 +19,10 @@
 ---
 
 # 🔖 Table of Contents
-### 1. [✔ Todo](#-todo)
-### 2. [💡 The Idea](#the-idea)
-### 3. [💻 How does a computer work behind the curtains?](#how-does-a-computer-work-behind-the-curtains)
-### 4. [▶️ Steps to run the machine with your program](#steps-to-run-the-machine-with-your-program)
-### 5. [👨🏻‍💻 Code Examples](#code-examples)
-### 6. [📄 Contributing Guidelines](#contributing-guidelines)
-
----
-
-# ✔ Todo
-**Circuit**
-- [ ] Float
-- [ ] Division circuit and instruction
-- [ ] Custom clock
-- [ ] Custom RAM
-- [ ] Custom register
-
-**Assembler**
-- [ ] Variables
-- [ ] Import
-- [ ] Procedures
-
-**High-Level Language**
-- [ ] High-Level Language Compiler
-
-**Future**
-- [ ] Built-in data structures in the High-Level Language Compiler
-- [ ] Interpreted Language
-- [ ] Compiler and Assembler inside open-machine
-- [ ] I/O: Screen and Keyboard
-- [ ] Basic Operating System
-- [ ] Disk
+### 1. [💡 The Idea](#-the-idea)
+### 2. [💻 A few words about the history of computers?](#-a-few-words-about-the-history-of-computers)
+### 4. [👨🏻‍💻 Code Examples](#-code-examples)
+### 5. [📄 Contributing Guidelines](#-contributing-guidelines)
 
 ---
 
@@ -74,65 +42,32 @@ Anyway, with that out of the way, this is when the everything started: a small d
 
 ---
 
-# 💻 How does a computer work behind the curtains?
+# 💻 A few words about the history of computers
 Developers usually have a good understanding of how a computer works. However, for me at least understanding a computer so deeply that you would be able to actually build one yourself seemed like an impossible task. So, in this section I want to break to you the most important pieces of the computer puzzle that you need to know in order to build your own computer from scratch using only circuits.
 
 ### Circuits
-Click [here]() to know more about how the circuits work and how they were built.
+At the beginning of programming, the cientists created machines that were able to perform repetitive computational tasks. The tasks were defined by big switches that were embedded in the computer. At that time, cientists create protocols that would define what computational task would be performed by each combination of switches. These protocols and switches are very similar to what we call machine code, which is binary code that are inside the computer and that the computer recognizes and runs it for computational purposes.
+
+Click [here](https://github.com/Open-Machine/Circuits) to know more about how the circuits work.
+
+<img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/stable/Media/first-computers.jpg"/>
+
+*At that time, computer programmers were mostly women! It's sad that nowadays the huge majority of programmers are men.*
 
 ### Code
-Since the machine only understands bits of information and it would be very hard to actually memorise all these numbers, in the not so early days of computers they invented computer languages that could be translated to the bits that a machine can actually understand which is called Machine Code. This process is called compiling or assembling depending on the language.
+Since the machine only understands bits of information and it would be very hard to actually memorise all these numbers, programmers created computer languages that could be translated to the bits that a machine can actually understand which is called Machine Code.
 
 #### Assembly
-Click [here]() to know more about how you can code in assembly and how it was developed.
+At first each instruction in the programming language had an equivalent instruction in machine code and vice-versa. This type of language is called assembly.
+
+Click [here](https://github.com/Open-Machine/Assembler) to know more about programming in assembly.
+
+<img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/stable/Media/assembly.jpg"/>
 
 #### High-Level Languages
-There are other categories of high-level languages such as compiled languages and interpreted languages. 
-For high-level languages the process of translating the code to the machine code is called compiling, because 
+After some time, it became clear that those languages were not very productive to write, because you had to write so many lines of code to do simple things. That's when they created high-end languages: programming languages that had instructions that didn't have an equivalent machine code instruction. Instead, each instruction on the high-end language could mean several instructions in the machine code. These languages had to be translated to the machine code. Since this translation process is much more complex, it's called compiling.
 
----
-
-# ▶️ Steps to run the machine with your program
-
-
-### I) Code to Executer
-As we discussed earlier, in order to to run your program, you have to write the code then assemble or compile it depending on the language you used.
-
-- **From the machine code**
-	If you wrote your code using only numbersYou can jump to the next step. You already have executable code.
-
-- **From the assembly code: Assemble**
-	If you wrote your program in Machine Code, you only need to assemble it, because there's a very strong correspondence between the instructions in the language and the architecture's machine code instructions: every instruction in the language is a machine code instruction and vice-versa.
-
-	In the **Machine-Code** repository, use the commands below to assemble your code:
-	```sh
-	./assembler assemble filename.asm
-	```
-
-- **From the High-Level Language: Compile**
-	Since each instruction in a high-level language corresponds to many machine code instructions, the process of generating an executable from its code is called "compile".
-
-	In the **High-Level-Language** repository, use the commands below to compile your code:
-	```sh
-	./compiler compile filename.lang
-	```
-
-
-### II) Run the machine and the program in it
-1. In the **Circuits** repository, use the commands below to run the machine:
-	```sh
-	java -jar logisim-evolution.jar
-	```
-2. Import the circuit file by navigating the menu:
-   *```File -> Open -> Select main.circ from the repository folder```*
-3. Open Main file on the left side of Logisim
-4. Paste the executable code into the RAM
-   - If it was generated from the Assembly Code or written in Machine Code, you should paste the code in the beginning of the RAM. Also, you may want to change some values of the memory as if you were initializing variables.
-   - If it was generated from the High-Level Language there's nothing else you have to do.
-5. Run the Program by navigating the menu:
-   *```Simulate -> Enable 'Ticks Enabled'```*
-   - You can change the speed of the program by navigating the menu: 
-	*```Simulate -> Tick Frequency -> To get the fastest execution, select the top item```*
+<img align="center" src="https://raw.githubusercontent.com/Open-Machine/README/stable/Media/fortran.jpg"/>
 
 ---
 
