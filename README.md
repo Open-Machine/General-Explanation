@@ -79,4 +79,4 @@ You can find examples of code in the ```Examples``` folder.
 ---
 
 # 📄 Contributing Guidelines
-Check out the contributing guidelines [here](https://github.com/Open-Machine/Organization-README/blob/master/CONTRIBUTION.md).
+Check out the contributing guidelines [here](https://github.com/Open-Machine/Organization-README/blob/master/CONTRIBUTING.md).

@@ -1,3 +1,3 @@
 # Program Explanation
 
-This program ...
+This program prints changes made to the input!

@@ -1,12 +1,9 @@
+beginning:
 
-jmpHere:
+input 0x60
+copy 0x60
+sub 0x61
+je beginning
 
-store 12
-add 0x1
-sub 1
-
-je jmpHere
-
-store 0xc
-
-kill
+output 0x60
+jmp beginning
