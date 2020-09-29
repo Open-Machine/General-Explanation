@@ -21,7 +21,7 @@
 # 🔖 Table of Contents
 ### 1. [💡 The Idea](#-the-idea)
 ### 2. [💻 A few words about the history of computers?](#-a-few-words-about-the-history-of-computers)
-### 4. [👨🏻‍💻 Code Examples](#-code-examples)
+### 4. [⌨️ Code Examples](#-code-examples)
 ### 5. [📄 Contributing Guidelines](#-contributing-guidelines)
 
 ---
@@ -71,7 +71,7 @@ After some time, it became clear that those languages were not very productive t
 
 ---
 
-# 👨🏻‍💻 Code Examples
+# ⌨️ Code Examples
 You can find examples of code in the ```Examples``` folder.
 #### Examples List
 - [Basic-IO](Examples/basic-io)
