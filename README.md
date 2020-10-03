@@ -38,7 +38,7 @@ I was obviously not encouraging people in any way to do that, but a few weeks la
 
 [ ⚠️ **Disclaimer**: Of course, I am doing some research and using knowledge developed by many people over many years of study. So I'm still not building it entirely on my own. In fact, I don't think that's even an option anymore since everybody has some knowledge about computers today. ]
 
-Anyway, with that out of the way, this is when the everything started: a small doubt in my head was fuel enough to face the challenge.
+Anyway, with that out of the way, this is when everything started: a small doubt in my head was fuel enough to face the challenge.
 
 ---
 
